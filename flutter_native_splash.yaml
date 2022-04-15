@@ -1,0 +1,10 @@
+flutter_native_splash:
+  image: assets/images/ic_launcher.png
+  android: true
+  ios: true
+  color: "ffffff"
+  fullscreen: true
+  android_gravity: center
+
+  image_dark: assets/images/ic_launcher.png
+  color_dark: "ffffff"
